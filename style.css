@@ -391,3 +391,54 @@ h2.serviciosh2{
         font-size: 20px;
         transform: translate(2%,250%);
 }
+/* Recomendaciones*/
+
+.recomendaciones{
+    padding: 60px;
+    position: relative;
+    width: 100%;
+    height: auto;
+    background-color: #163F52;
+    scroll-margin-top: 78px;
+}
+
+.Titulo{
+    font-weight: bold;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 3rem 0;
+    scroll-margin-top: 78px;
+    font-size: 15px;
+}
+
+.subtitulo{
+    font-weight: bold;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 3rem 0;
+    scroll-margin-top: 78px;
+    font-size: 40px;
+}
+.texto{
+    font-weight: bold;
+    text-align: center;
+    color:#818f96;
+    padding: 3rem 0;
+    scroll-margin-top: 50px;
+    font-size: 15px;
+}
+.btnEnviar{
+    background-color: #26D698;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 10px;
+    font-size: 15px;
+    margin-left: 20px;
+}
+.Txtbox{
+    background-color: #163F52;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 10px;
+    font-size: 15px;
+}
